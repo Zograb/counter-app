@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button should match snapshot 1`] = `
+<div>
+  <button
+    class="h-10 px-6 text-3xl rounded bg-neutral transition-all duration-200 hover:bg-neutral-hover active:scale-90 active:opacity-80"
+  >
+    BUTTON
+  </button>
+</div>
+`;
